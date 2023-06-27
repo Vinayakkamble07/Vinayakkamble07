@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinayakzero7" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakzero7?logo=twitter&style=for-the-badge" alt="vinayakzero7" /></a> </p>
 
-- 🔭 I’m currently working on **Learning how to build web app**
+- 🔭 I’m currently working on **Learning how to build web apps**
 
 - 🌱 I’m currently learning **Django full-stack**
 
