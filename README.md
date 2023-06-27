@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vinayakzd7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rotCACCaSrvYGN2QXalprB_QNDUmP14W/view](https://drive.google.com/file/d/1rotCACCaSrvYGN2QXalprB_QNDUmP14W/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rotCACCaSrvYGN2QXalprB_QNDUmP14W/view](https://drive.google.com/file/d/16RtaF0HAIkUjpmHG4mBXVKHon9-ly2L5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
